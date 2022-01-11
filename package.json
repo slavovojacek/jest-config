@@ -1,0 +1,36 @@
+{
+  "name": "@slavovojacek/jest-config",
+  "version": "0.0.0",
+  "description": "Shared jest config used in my projects",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=14",
+    "npm": ">=8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavovojacek/jest-config.git"
+  },
+  "keywords": [
+    "jest",
+    "config",
+    "configuration"
+  ],
+  "author": {
+    "name": "Slavo Vojacek",
+    "email": "public@slavovojacek.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavovojacek/jest-config/issues"
+  },
+  "homepage": "https://github.com/slavovojacek/jest-config#readme",
+  "peerDependencies": {
+    "@types/jest": "27.x",
+    "jest": "27.x",
+    "ts-jest": "27.x"
+  }
+}
